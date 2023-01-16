@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RithikaApplication {
+public class SindhooriApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SindhooriApplication.class, args);
