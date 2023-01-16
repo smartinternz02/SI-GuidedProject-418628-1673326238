@@ -27,3 +27,6 @@ This application will provide details about flights. Users can list places, view
 ## Reference to country codes
 ![image](https://user-images.githubusercontent.com/122197021/211213287-a357ef82-b7f8-4f16-9ebf-f7ecd5fa4b34.png)
 
+## Course completion certificate
+![image](https://user-images.githubusercontent.com/122197021/212633236-96aa26d6-63cc-4bc4-950d-7e336988bdf7.png)
+
