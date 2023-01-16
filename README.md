@@ -1,5 +1,5 @@
 # SI-GuidedProject-418628-1673326238
-FlightAware
+FlightAware project
 
 # FlightAware
 This application will provide details about flights. Users can list places, view flight prices, route wise flights, country details, city details. 
